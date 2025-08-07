@@ -13,4 +13,8 @@ class Main {
 
         }
     }
+    
+    public void Subtract(int a, int b){
+        System.out.print("Hitesh man ho tho kar do");
+    }
 }
