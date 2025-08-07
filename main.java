@@ -5,7 +5,6 @@ class Main {
         Scanner s = new Scanner(System.in);
         int a = s.nextInt();
         int b = s.nextInt();
-
         System.out.println(a + b);
         System.out.println("hello");
         System.out.println("partik");
@@ -13,7 +12,5 @@ class Main {
         public void divide (int a , int b){
 
         }
-
-        System.out.println(a+b);
     }
 }
