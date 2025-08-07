@@ -8,5 +8,7 @@ class Main {
         System.out.println(a + b);
 
         System.out.println("hello");
+
+        System.out.print(a-b);
     }
 }
