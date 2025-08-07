@@ -5,7 +5,6 @@ class Main{
         int a = s.nextInt();
         int b = s.nextInt();
 
-
         System.out.println(a + b);
         System.out.println("hello");
 
@@ -16,9 +15,6 @@ class Main{
         System.out.println("partik");
 
         public void divide (int a,int b){
-        System.out.println(a+b);
-
-
         System.out.println(a+b);
 
     }
